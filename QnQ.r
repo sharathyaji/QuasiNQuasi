@@ -47,7 +47,7 @@ case6=matrix(c( -1,+100, +100, -10,
 
 
 
-Actions=list(case1=case1, case2=case2, case3=case3, case4=case4)#worksfine
+Actions=list(case1=case1, case2=case2, case3=case3, case4=case4)
 
 
 Rewards=matrix(c( -10, -10, -10, -10,
