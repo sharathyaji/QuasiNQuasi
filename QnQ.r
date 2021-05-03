@@ -1,11 +1,11 @@
 
-#Below sourcecode gives the breif idea about how the implementation of quasi and non-quasi is performed for thsi research. 
+#Below source code gives a breif idea about how the implementation of quasi and non-quasi is performed for this research. 
 
 install.packages("MDPtoolbox")
  
 library(MDPtoolbox)
 
-#matrix values are as per rewards and penalties, details are mentioned in paper.
+#matrix values are as per rewards and penalties; details are mentioned in the paper.
 
 case1=matrix(c( 1, +10, -100, -100,
               +10, +1, -100, -100,
